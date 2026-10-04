@@ -1,6 +1,6 @@
 # XboxGamepad Plugin for FufuLancher
 
-用于**芙芙启动器**(https://github.com/FufuLauncher/FufuLauncher)的原神 Xbox 手柄功能插件
+用于[芙芙启动器](https://github.com/FufuLauncher/FufuLauncher)的原神 Xbox 手柄功能插件
 
 当前版本：**1.0.0**。
 
